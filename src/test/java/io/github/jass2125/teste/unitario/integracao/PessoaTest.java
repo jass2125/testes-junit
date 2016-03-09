@@ -29,7 +29,7 @@ public class PessoaTest {
     public void testGetNome() {
         Pessoa pessoa = new Pessoa();
         String esperado = "";
-        String resultado = "";
+        String resultado = "2";
         assertEquals(esperado, resultado);
     }
     
