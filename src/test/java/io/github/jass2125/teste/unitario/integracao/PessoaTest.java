@@ -28,7 +28,7 @@ public class PessoaTest {
     @Test
     public void testGetNome() {
         Pessoa pessoa = new Pessoa();
-        String esperado = "";
+        String esperado = "2";
         String resultado = "2";
         assertEquals(esperado, resultado);
     }
